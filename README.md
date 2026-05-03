@@ -1,35 +1,43 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pandya</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • MongoDB</h3>
+
+<h3 align="center">
+Full Stack Developer & Data Science Engineer | AI • MERN Stack • Building intelligent real-world applications
+</h3>
 
 <p align="center">
-  🚀 Building real-world web apps like employee attrition systems <br>
+  🚀 Building real-world web apps like employee attrition prediction systems <br>
   💡 Passionate about problem solving & scalable applications <br>
   📍 Ahmedabad, India
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
-- 🔭 Currently working on: **TALENTGUARD (Employee Attrition Managment System)**
-- 🌱 Learning: **Advanced React & Backend Optimization**
-- 👯 Looking to collaborate on: **Web Projects**
-- 💬 Ask me about: **React, PHP, MySQL**
-- 📫 Reach me: **dhruvpandya.me**
+- 🔭 Currently working on: **TalentGuard AI (Employee Attrition Prediction System)**
+- 🌱 Learning: **Machine Learning, Data Science & Advanced MERN Stack**
+- 👯 Looking to collaborate on: **AI-driven Web Applications**
+- 💬 Ask me about: **React, Node.js, MongoDB, Machine Learning**
+- 📫 Email: **[pdhruvn3595@gmail.com](mailto:pdhruvn3595@gmail.com)**
+- 🌐 Portfolio: **https://dhruvpandya.me**
 
 ---
 ## 🚀 Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript, TypeScript
-- Backend: PHP, Node.js
-- Database: MySQL, MongoDB
-- Tools: Git, GitHub, VS Code
+**Frontend:** React.js, HTML, CSS, JavaScript, TypeScript  
+**Backend:** Node.js, PHP  
+**Database:** MongoDB, MySQL  
+**AI/Data Science:** Python, Machine Learning  
+**Tools:** Git, GitHub, VS Code  
 
 ---
-
 ## 📌 Featured Projects
-### 🤖 TalentGuard AI
-- AI-based system for talent screening & analysis
-- Automates candidate evaluation using intelligent logic
-- Tech: Python / AI / React js
+
+### 🤖 TalentGuard AI – Employee Attrition Prediction System
+- AI-powered system to predict employee attrition using machine learning models
+- Built a FastAPI backend to serve ML predictions via REST APIs
+- Stores and manages employee data using SQLite database
+- Interactive frontend for data input and result visualization
+-  Performed data preprocessing and feature engineering
+- Integrated ML model with API for real-time predictions
+- Tech: Python, Machine Learning, FastAPI, SQLite, React.js
 
 ---
 ## 📊 GitHub Stats
