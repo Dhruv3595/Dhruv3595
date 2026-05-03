@@ -36,9 +36,11 @@
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv3595&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight)
+
 
 ---
 
