@@ -34,15 +34,14 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight" />
-
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv3595&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhruv3595&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
