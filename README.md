@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhruv Pandya</h1>
+<h3 align="center">Full Stack Developer | React • PHP • MySQL</h3>
 
-<!--
-**Dhruv3595/Dhruv3595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Building real-world web apps like food delivery systems <br>
+  💡 Passionate about problem solving & scalable applications <br>
+  📍 Ahmedabad, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔭 Currently working on: **TALENTGUARD (Employee Attrition Managment System)**
+- 🌱 Learning: **Advanced React & Backend Optimization**
+- 👯 Looking to collaborate on: **Web Projects**
+- 💬 Ask me about: **React, PHP, MySQL**
+- 📫 Reach me: **dhruvpandya.me**
+
+---
+## 🚀 Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript, TypeScript
+- Backend: PHP, Node.js
+- Database: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+### 🤖 TalentGuard AI
+- AI-based system for talent screening & analysis
+- Automates candidate evaluation using intelligent logic
+- Tech: Python / AI / React js
+
+---
+
+## 📊 GitHub Stats
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv3595&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+- 📫 Email: **[pdhruvn3595@gmail.com](mailto:pdhruvn3595@gmail.com)**
+- 🌐 Portfolio: **[dhruvpandya.me](https://dhruvpandya.me/)**
+- 💼 LinkedIn: **[linkedin.com/in/dhruv-pandya07](https://www.linkedin.com/in/dhruv-pandya07/)**
