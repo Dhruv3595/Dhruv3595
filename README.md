@@ -34,9 +34,13 @@
 ---
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight" />
+
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv3595&theme=tokyonight)
 
