@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pandya</h1>
-<h3 align="center">Full Stack Developer | React • PHP • MySQL</h3>
+<h3 align="center">Full Stack Developer | React • Node.js • MongoDB</h3>
 
 <p align="center">
-  🚀 Building real-world web apps like food delivery systems <br>
+  🚀 Building real-world web apps like employee attrition systems <br>
   💡 Passionate about problem solving & scalable applications <br>
   📍 Ahmedabad, India
 </p>
@@ -32,9 +32,13 @@
 - Tech: Python / AI / React js
 
 ---
-
 ## 📊 GitHub Stats
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv3595&show_icons=true)
+
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv3595&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhruv3595&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv3595&layout=compact&theme=tokyonight)
 
 ---
 
